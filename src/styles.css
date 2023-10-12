@@ -64,7 +64,9 @@ img {
 }
 
 .load-more {
+  display: flex;
   margin: 40px auto;
   width: 200px;
-  background-color: #eff160;
+  background-color: green;
+  justify-content: center;
 }
